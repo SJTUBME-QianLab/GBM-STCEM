@@ -1,6 +1,6 @@
 # GBM STCEM
 
-This repository will hold the PyTorch code of our paper *A Spatial-Transformation-Based  Causality-Enhanced Model for Glioblastoma Multiforme Progression Diagnosis*.
+This repository will hold the PyTorch code of our paper *A Spatial-Transformation-Based  Causality-Enhanced Model for Diagnosis of Glioblastoma Multiforme Progression*.
 
 The complete codes will be released once the paper is published.
 
