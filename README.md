@@ -38,7 +38,6 @@ Run the ```st_cem.py``` by this command:
 ```
 python st_cem.py
 ```
-- The detailed parameters can be changed in ```st_cem.py``` 
 - The TDAS details can be found in ```get_all_data.py```
 - The IICS and CEM details can be found in ```torch_cnn.py```
 ### Citation
