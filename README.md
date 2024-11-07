@@ -38,8 +38,9 @@ Run the ```st_cem.py``` by this command:
 ```
 python st_cem.py
 ```
-- The TDAS details can be found in ```get_all_data.py```
-- The IICS and CEM details can be found in ```torch_cnn.py```
+- The details of TDAS can be found in ```get_all_data.py```
+- The details of IICS and CEM can be found in ```torch_cnn.py```
+
 ### Citation
 Please cite the following paper if you use this repository in your research.
 ```
